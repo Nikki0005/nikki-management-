@@ -71,9 +71,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/suryabots)
-- [Telegram Support Group](https://t.me/SuryaBotsSupport)
-- [Contact Owner](https://telegram.me/SuryaModOwner)
+- [Telegram Channel](https://t.me/logs_elenamanagment)
+- [Telegram Support Group](https://t.me/elean_bot_support)
+- [Contact Owner](https://telegram.me/R_ONE_HU)
 
 
 ## Acknowledgements
